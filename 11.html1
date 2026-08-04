@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>?</title>
+
+    <style>
+        header{
+            background-color: rgb(132, 240, 240);
+            color: blueviolet;
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+            border: 5px solid #215dbd;
+            padding: 16px;
+        }
+
+        main{
+            background-color: rgb(104, 229, 88);
+            color: rgb(230, 193, 190);
+            max-width: 800px;
+            margin: 0 auto;
+            border: 5px solid #70cb2b;
+            padding: 16px;
+        }
+
+        img{
+            height: 250px;
+            width: 250px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Trabalho de Educação Digital sobre pcs</h1>
+        <p>Programando a Primeira Pagina Web</p>
+    </header>
+
+    <main>
+        <img src="imagem-blog.png" alt="Ilustração do blog">
+
+        <h2>Trabalho no vscode sobre pcs</h2>
+        <p>Por: Pablo Cezar Kutczuruba</p>
+        <p>Essa é minha primeira pagina web, e primeiro trabalho valendo nota sobre issos</p>
+    </main>
+
+</body>
+</html>
