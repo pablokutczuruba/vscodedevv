@@ -17,11 +17,11 @@
         }
 
         main{
-            background-color: rgb(104, 229, 88);
-            color: rgb(230, 193, 190);
+            background-color: rgba(173, 201, 169, 1);
+            color: rgba(212, 34, 21, 1);
             max-width: 800px;
             margin: 0 auto;
-            border: 5px solid #70cb2b;
+            border: 5px solid #57644cff;
             padding: 16px;
         }
 
